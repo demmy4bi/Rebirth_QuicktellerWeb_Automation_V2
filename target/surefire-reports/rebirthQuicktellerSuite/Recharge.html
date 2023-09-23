@@ -1,0 +1,187 @@
+<html>
+<head>
+<title>TestNG:  Recharge</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Recharge</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>4/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Wed Sep 20 14:24:00 WAT 2023</td>
+</tr>
+<tr><td>Total time:</td><td>109 seconds (109141 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.rebirthQuickteller.TestCases.Recharge.CardAirtimeRecharge()'><b>CardAirtimeRecharge</b><br>Test class: com.rebirthQuickteller.TestCases.Recharge<br>Test method: This test case will perform recharge with Card <br/>
+<a href="#Output-853588368" onClick='toggleBox("Output-853588368", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-853588368" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-853588368">
+Test to perform recharge with card started !!!<br/>
+emailAddress entered successfully<br/>
+Password entered successfully<br/>
+SignIn button clicked successfully<br/>
+Airtime button clicked successfully<br/>
+New Airtime button clicked successfully<br/>
+PhoneNumber Entered<br/>
+Glo Clicked Successfully<br/>
+Next button clicked successfully<br/>
+Amount Entered<br/>
+Pay button clicked<br/>
+New card selected<br/>
+Card number input<br/>
+CardExpiryDate input<br/>
+CardCVV input<br/>
+CardPin input<br/>
+Next button clicked successfully<br/>
+Recharge Successful<br/>
+Receipt clicked<br/>
+Receipt closed successfully<br/>
+Done Clicked successfully<br/>
+Test to perform recharge with card completed !!!<br/>
+</div>
+</td>
+<td></td>
+<td>31</td>
+<td>com.rebirthQuickteller.TestCases.Recharge@44b3606b</td></tr>
+<tr>
+<td title='com.rebirthQuickteller.TestCases.Recharge.InvalidphoneNumberAirtimeRecharge()'><b>InvalidphoneNumberAirtimeRecharge</b><br>Test class: com.rebirthQuickteller.TestCases.Recharge<br>Test method: This test case will check user should not be able to recharge with invalid phoneNumber<br/>
+<a href="#Output-1513530373" onClick='toggleBox("Output-1513530373", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1513530373" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1513530373">
+Test to check user should not be able to recharge with invalid phoneNumber started !!!<br/>
+emailAddress entered successfully<br/>
+Password entered successfully<br/>
+SignIn button clicked successfully<br/>
+Airtime button clicked successfully<br/>
+New Airtime button clicked successfully<br/>
+PhoneNumber Entered<br/>
+Assertion of InvalidphoneNumberInput successful<br/>
+Test to check user should not be able to recharge with invalid phoneNumber completed !!!<br/>
+</div>
+</td>
+<td></td>
+<td>7</td>
+<td>com.rebirthQuickteller.TestCases.Recharge@44b3606b</td></tr>
+<tr>
+<td title='com.rebirthQuickteller.TestCases.Recharge.QTAccountAirtimeRecharge()'><b>QTAccountAirtimeRecharge</b><br>Test class: com.rebirthQuickteller.TestCases.Recharge<br>Test method: This test case will perform recharge with QTAccount <br/>
+<a href="#Output-268518489" onClick='toggleBox("Output-268518489", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-268518489" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-268518489">
+Test to perform recharge with QTAccount started !!!<br/>
+emailAddress entered successfully<br/>
+Password entered successfully<br/>
+SignIn button clicked successfully<br/>
+Airtime button clicked successfully<br/>
+New Airtime button clicked successfully<br/>
+PhoneNumber Entered<br/>
+Glo Clicked Successfully<br/>
+Next button clicked successfully<br/>
+Amount Entered<br/>
+Pay button clicked<br/>
+QuicktellerAccount Selected for Airtime Recharge<br/>
+Transfer Button Clicked Successfully<br/>
+Recharge Successful<br/>
+Receipt clicked<br/>
+Receipt closed successfully<br/>
+Done Clicked successfully<br/>
+Test to perform recharge with QTAccount completed !!!<br/>
+</div>
+</td>
+<td></td>
+<td>37</td>
+<td>com.rebirthQuickteller.TestCases.Recharge@44b3606b</td></tr>
+<tr>
+<td title='com.rebirthQuickteller.TestCases.Recharge.QTAccountAirtimeRechargeWithInvalidTransactionPin()'><b>QTAccountAirtimeRechargeWithInvalidTransactionPin</b><br>Test class: com.rebirthQuickteller.TestCases.Recharge<br>Test method: This test case will perform recharge with QTAccount using Invalid Transacton Pin <br/>
+<a href="#Output-42165108" onClick='toggleBox("Output-42165108", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-42165108" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-42165108">
+Test to perform recharge with QTAccount using Invalid Transacton Pin started !!!<br/>
+emailAddress entered successfully<br/>
+Password entered successfully<br/>
+SignIn button clicked successfully<br/>
+Airtime button clicked successfully<br/>
+New Airtime button clicked successfully<br/>
+PhoneNumber Entered<br/>
+Glo Clicked Successfully<br/>
+Next button clicked successfully<br/>
+Amount Entered<br/>
+Pay button clicked<br/>
+QuicktellerAccount Selected for Airtime Recharge<br/>
+Transfer Button Clicked Successfully<br/>
+Invalid Transaction Pin Asserted successfully<br/>
+Test to perform recharge with QTAccount using Invalid Transacton Pin completed !!!<br/>
+</div>
+</td>
+<td></td>
+<td>20</td>
+<td>com.rebirthQuickteller.TestCases.Recharge@44b3606b</td></tr>
+</table><p>
+</body>
+</html>

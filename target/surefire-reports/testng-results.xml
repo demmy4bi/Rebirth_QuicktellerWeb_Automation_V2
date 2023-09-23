@@ -1,0 +1,2911 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="37" passed="35" failed="2" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[=====Chrome Browser Session Started=====]]>
+    </line>
+    <line>
+      <![CDATA[Test to verify user can't sign up with already exist phoneNumber started !!!]]>
+    </line>
+    <line>
+      <![CDATA[SignUp button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[Sign up with phonenumber button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[Search entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[Country code selected successfully]]>
+    </line>
+    <line>
+      <![CDATA[phoneNumber entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[ClickTermConditionButton clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[SignUp button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[AlreadyexistPhonenumber error message Asserted]]>
+    </line>
+    <line>
+      <![CDATA[Test to verify user can't login with sign up with already exist phoneNumber completed !!!]]>
+    </line>
+    <line>
+      <![CDATA[Test to verify user can't signup using invalid phonenumber started !!!]]>
+    </line>
+    <line>
+      <![CDATA[SignUp button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[Sign up with phonenumber button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[Search entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[Country code selected successfully]]>
+    </line>
+    <line>
+      <![CDATA[phoneNumber entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[ClickTermConditionButton clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[Invalid PhoneNumber Asserted]]>
+    </line>
+    <line>
+      <![CDATA[Test to verify user can't signup using invalid phonenumber completed !!!]]>
+    </line>
+    <line>
+      <![CDATA[Test to confirm user must provide password that Contain 1 Number started !!!]]>
+    </line>
+    <line>
+      <![CDATA[SignUp button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[Sign up with phonenumber button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[Search entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[Country code selected successfully]]>
+    </line>
+    <line>
+      <![CDATA[phoneNumber entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[ClickTermConditionButton clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[SignUp button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[OTP entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[password entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[confirmPassword entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[Password Must Contain 1 Number Assertion successful]]>
+    </line>
+    <line>
+      <![CDATA[Test to confirm user must provide password that Contain 1 Number completed !!!]]>
+    </line>
+    <line>
+      <![CDATA[Test to confirm user must provide password that Contain LowerCaseLetter started !!!]]>
+    </line>
+    <line>
+      <![CDATA[password entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[confirmPassword entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[Password Must Contain LowerCase Letter Assertion successful]]>
+    </line>
+    <line>
+      <![CDATA[Test to confirm user must provide password that Contain LowerCaseLetter completed !!!]]>
+    </line>
+    <line>
+      <![CDATA[Test to confirm user must provide password that Contain UpperCaseLetter started !!!]]>
+    </line>
+    <line>
+      <![CDATA[password entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[confirmPassword entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[Password Must Contain UpperCase Letter Assertion successful]]>
+    </line>
+    <line>
+      <![CDATA[Test to confirm user must provide password that Contain UpperCaseLetter completed !!!]]>
+    </line>
+    <line>
+      <![CDATA[Test to confirm user must provide the same password and confirmPassword started !!!]]>
+    </line>
+    <line>
+      <![CDATA[password entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[confirmPassword entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[Password must match Assertion successful]]>
+    </line>
+    <line>
+      <![CDATA[Test to confirm user must provide the same password and confirmPassword completed !!!]]>
+    </line>
+    <line>
+      <![CDATA[Test to confirm user must provide password that contains 1 Special Character started !!!]]>
+    </line>
+    <line>
+      <![CDATA[password entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[confirmPassword entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[Password must match Assertion successful]]>
+    </line>
+    <line>
+      <![CDATA[Test to confirm user must provide password that contains 1 Special Character completed !!!]]>
+    </line>
+    <line>
+      <![CDATA[Test to confirm user must provide password that contains 8 Character started !!!]]>
+    </line>
+    <line>
+      <![CDATA[password entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[confirmPassword entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[Password Must Contain 8 Character Assertion successful]]>
+    </line>
+    <line>
+      <![CDATA[Test to confirm user must provide password that contains 8 Character completed !!!]]>
+    </line>
+    <line>
+      <![CDATA[Test to confirm user must provide firstName to complete Onboarding Process started !!!]]>
+    </line>
+    <line>
+      <![CDATA[SignUp button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[Sign up with phonenumber button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[Search entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[Country code selected successfully]]>
+    </line>
+    <line>
+      <![CDATA[phoneNumber entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[ClickTermConditionButton clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[SignUp button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[OTP entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[password entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[confirmPassword entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[Next button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[WelcometoQuickteller message asserted]]>
+    </line>
+    <line>
+      <![CDATA[Get Started button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[LastName NAME entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[Gender selected successfully]]>
+    </line>
+    <line>
+      <![CDATA[DateofBirth entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[quickTag NAME entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[RefferalName entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[Test to confirm user must provide firstName to complete Onboarding Process completed !!!]]>
+    </line>
+    <line>
+      <![CDATA[Test to confirm user must provide lastName to complete Onboarding Process started !!!]]>
+    </line>
+    <line>
+      <![CDATA[SignUp button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[Sign up with phonenumber button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[Search entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[Country code selected successfully]]>
+    </line>
+    <line>
+      <![CDATA[phoneNumber entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[ClickTermConditionButton clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[SignUp button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[OTP entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[password entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[confirmPassword entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[Next button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[WelcometoQuickteller message asserted]]>
+    </line>
+    <line>
+      <![CDATA[Get Started button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[FirstName_NAME entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[Gender selected successfully]]>
+    </line>
+    <line>
+      <![CDATA[DateofBirth entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[quickTag NAME entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[RefferalName entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[Test to confirm user must provide lastName to complete Onboarding Process completed !!!]]>
+    </line>
+    <line>
+      <![CDATA[Test to confirm user must provide gender to complete Onboarding Process started !!!]]>
+    </line>
+    <line>
+      <![CDATA[SignUp button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[Sign up with phonenumber button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[Search entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[Country code selected successfully]]>
+    </line>
+    <line>
+      <![CDATA[phoneNumber entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[ClickTermConditionButton clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[SignUp button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[OTP entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[password entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[confirmPassword entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[Next button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[WelcometoQuickteller message asserted]]>
+    </line>
+    <line>
+      <![CDATA[Get Started button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[FirstName_NAME entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[LastName NAME entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[DateofBirth entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[quickTag NAME entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[RefferalName entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[Test to confirm user must provide gender to complete Onboarding Process completed !!!]]>
+    </line>
+    <line>
+      <![CDATA[Test to confirm user must provide dateofbirth to complete Onboarding Process started !!!]]>
+    </line>
+    <line>
+      <![CDATA[SignUp button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[Sign up with phonenumber button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[Search entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[Country code selected successfully]]>
+    </line>
+    <line>
+      <![CDATA[phoneNumber entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[ClickTermConditionButton clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[SignUp button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[OTP entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[password entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[confirmPassword entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[Next button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[WelcometoQuickteller message asserted]]>
+    </line>
+    <line>
+      <![CDATA[Get Started button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[FirstName_NAME entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[LastName NAME entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[Gender selected successfully]]>
+    </line>
+    <line>
+      <![CDATA[quickTag NAME entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[RefferalName entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[Test to confirm user must provide dateofbirth to complete Onboarding Process completed !!!]]>
+    </line>
+    <line>
+      <![CDATA[Test to confirm user must provide match pin and confirm pin to complete Onboarding Process started !!!]]>
+    </line>
+    <line>
+      <![CDATA[SignUp button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[Sign up with phonenumber button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[Search entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[Country code selected successfully]]>
+    </line>
+    <line>
+      <![CDATA[phoneNumber entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[ClickTermConditionButton clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[SignUp button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[OTP entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[password entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[confirmPassword entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[Next button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[WelcometoQuickteller message asserted]]>
+    </line>
+    <line>
+      <![CDATA[Get Started button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[FirstName_NAME entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[LastName NAME entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[Gender selected successfully]]>
+    </line>
+    <line>
+      <![CDATA[DateofBirth entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[quickTag NAME entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[RefferalName entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[Next button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[Pin entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[ConfirmPin entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[SavePin button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[Pin MisMatch error message Asserted]]>
+    </line>
+    <line>
+      <![CDATA[Test to confirm user must provide match pin and confirm pin to complete Onboarding Process completed !!!]]>
+    </line>
+    <line>
+      <![CDATA[Test to confirm user must provide pin and confirm pin that is not repetitive or sequential to complete Onboarding Process started !!!]]>
+    </line>
+    <line>
+      <![CDATA[SignUp button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[Sign up with phonenumber button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[Search entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[Country code selected successfully]]>
+    </line>
+    <line>
+      <![CDATA[phoneNumber entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[ClickTermConditionButton clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[SignUp button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[OTP entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[password entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[confirmPassword entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[Next button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[WelcometoQuickteller message asserted]]>
+    </line>
+    <line>
+      <![CDATA[Get Started button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[FirstName_NAME entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[LastName NAME entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[Gender selected successfully]]>
+    </line>
+    <line>
+      <![CDATA[DateofBirth entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[RefferalName entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[Next button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[Pin entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[ConfirmPin entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[SavePin button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[Pin Repetitive/Sequential error message Asserted]]>
+    </line>
+    <line>
+      <![CDATA[Test to confirm user must provide pin and confirm pin that is not repetitive or sequential to complete Onboarding Process completed !!!]]>
+    </line>
+    <line>
+      <![CDATA[Test to verify user can signup with phonenumber using valid credentials started !!!]]>
+    </line>
+    <line>
+      <![CDATA[SignUp button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[Sign up with phonenumber button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[Search entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[Country code selected successfully]]>
+    </line>
+    <line>
+      <![CDATA[phoneNumber entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[ClickTermConditionButton clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[SignUp button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[OTP entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[password entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[confirmPassword entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[Next button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[WelcometoQuickteller message asserted]]>
+    </line>
+    <line>
+      <![CDATA[Get Started button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[FirstName_NAME entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[LastName NAME entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[Gender selected successfully]]>
+    </line>
+    <line>
+      <![CDATA[DateofBirth entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[RefferalName entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[Next button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[Profile Update success message Asserted]]>
+    </line>
+    <line>
+      <![CDATA[Pin entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[ConfirmPin entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[SavePin button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[Pin set success message Asserted]]>
+    </line>
+    <line>
+      <![CDATA[Test to verify user can signup with phonenumber using valid credentials completed !!!]]>
+    </line>
+    <line>
+      <![CDATA[=====Chrome Browser Session Started=====]]>
+    </line>
+    <line>
+      <![CDATA[Test to verify user can't login with invalid email and a valid password fields started !!!]]>
+    </line>
+    <line>
+      <![CDATA[emailAddress entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[Assertion of InvalidEmailInput successful]]>
+    </line>
+    <line>
+      <![CDATA[Password entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[Test to verify user can't login with invalid email and a valid password fields completed !!!]]>
+    </line>
+    <line>
+      <![CDATA[Test to verify user can't login with  UnregisteredEmail and a valid password fields started !!!]]>
+    </line>
+    <line>
+      <![CDATA[emailAddress entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[Password entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[SignIn button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[Assertion of UnregisteredEmail successful]]>
+    </line>
+    <line>
+      <![CDATA[Test to verify user can't login with  UnregisteredEmail and a valid password fields completed !!!]]>
+    </line>
+    <line>
+      <![CDATA[Test to verify user can't login with empty email fields and valid password started !!!]]>
+    </line>
+    <line>
+      <![CDATA[emailAddress entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[Password entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[Test to verify user can't login with empty email fields and valid password completed !!!]]>
+    </line>
+    <line>
+      <![CDATA[Test to verify user can't login with empty pasword fields and valid email address started !!!]]>
+    </line>
+    <line>
+      <![CDATA[emailAddress entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[Password entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[Test to verify user can't login with empty pasword fields and valid email address completed !!!]]>
+    </line>
+    <line>
+      <![CDATA[Test to verify user can't login with  valid email and a wrong password fields started !!!]]>
+    </line>
+    <line>
+      <![CDATA[emailAddress entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[Password entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[SignIn button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[Assertion of Invalid Password successful]]>
+    </line>
+    <line>
+      <![CDATA[Test to verify user can't login with  valid email and a wrong password fields completed !!!]]>
+    </line>
+    <line>
+      <![CDATA[Test to perform login with valid email and password started !!!]]>
+    </line>
+    <line>
+      <![CDATA[emailAddress entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[Password entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[SignIn button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[Logout successfully]]>
+    </line>
+    <line>
+      <![CDATA[Test to perform login with valid email and password completed !!!]]>
+    </line>
+    <line>
+      <![CDATA[Test to perform valid login with rememberMe started !!!]]>
+    </line>
+    <line>
+      <![CDATA[emailAddress entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[Password entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[SignIn button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[Logout successfully]]>
+    </line>
+    <line>
+      <![CDATA[Password entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[SignIn button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[Logout successfully]]>
+    </line>
+    <line>
+      <![CDATA[Test to perform valid email login with rememberMe completed !!!]]>
+    </line>
+    <line>
+      <![CDATA[Test to verify user can't login with invalid phoneNumber fields started !!!]]>
+    </line>
+    <line>
+      <![CDATA[Sign In with PhoneNumber button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[phoneNumber entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[Assertion of InvalidphoneNumberInput successful]]>
+    </line>
+    <line>
+      <![CDATA[Test to verify user can't login with invalid phoneNumber fields fields completed !!!]]>
+    </line>
+    <line>
+      <![CDATA[Test to verify user can't login with  UnregisteredPhoneNumber and a valid password fields started !!!]]>
+    </line>
+    <line>
+      <![CDATA[phoneNumber entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[Password entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[SignIn button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[Assertion of UnregisteredPhoneNumber successful]]>
+    </line>
+    <line>
+      <![CDATA[Test to verify user can't login with  UnregisteredPhoneNumber and a valid password fields completed !!!]]>
+    </line>
+    <line>
+      <![CDATA[Test to verify user can't login with empty phoneNumber fields and valid password started !!!]]>
+    </line>
+    <line>
+      <![CDATA[phoneNumber entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[Password entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[Test to verify user can't login with empty phoneNumber fields and valid password completed !!!]]>
+    </line>
+    <line>
+      <![CDATA[Test to verify user can't login with empty pasword fields and valid phoneNumber started !!!]]>
+    </line>
+    <line>
+      <![CDATA[phoneNumber entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[Password entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[Test to verify user can't login with empty pasword fields and valid phoneNumber completed !!!]]>
+    </line>
+    <line>
+      <![CDATA[Test to verify user can't login with valid phoneNumber and a wrong password fields started !!!]]>
+    </line>
+    <line>
+      <![CDATA[phoneNumber entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[Password entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[SignIn button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[Assertion of Invalid Password successful]]>
+    </line>
+    <line>
+      <![CDATA[Test to verify user can't login with valid phoneNumber and a wrong password fields completed !!!]]>
+    </line>
+    <line>
+      <![CDATA[Test to perform phoneNumber login with valid credentials started !!!]]>
+    </line>
+    <line>
+      <![CDATA[phoneNumber entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[Password entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[SignIn button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[Logout successfully]]>
+    </line>
+    <line>
+      <![CDATA[Test to perform phoneNumber login with valid credentials completed !!!]]>
+    </line>
+    <line>
+      <![CDATA[Test to perform valid phoneNumber login with rememberMe started !!!]]>
+    </line>
+    <line>
+      <![CDATA[Sign In with PhoneNumber button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[phoneNumber entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[Password entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[SignIn button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[Logout successfully]]>
+    </line>
+    <line>
+      <![CDATA[Sign In with PhoneNumber button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[Password entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[SignIn button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[Logout successfully]]>
+    </line>
+    <line>
+      <![CDATA[Test to perform valid PhoneNumberlogin with rememberMe completed !!!]]>
+    </line>
+    <line>
+      <![CDATA[=====Chrome Browser Session Started=====]]>
+    </line>
+    <line>
+      <![CDATA[Test to perform transfer with card started !!!]]>
+    </line>
+    <line>
+      <![CDATA[emailAddress entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[Password entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[SignIn button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[New  button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[Account Number entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[Search entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[Select Search entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[Next button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[Amount Entered]]>
+    </line>
+    <line>
+      <![CDATA[Narration entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[Send button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[New card selected]]>
+    </line>
+    <line>
+      <![CDATA[Card number input]]>
+    </line>
+    <line>
+      <![CDATA[CardExpiryDate input]]>
+    </line>
+    <line>
+      <![CDATA[CardCVV input]]>
+    </line>
+    <line>
+      <![CDATA[Card Pin input]]>
+    </line>
+    <line>
+      <![CDATA[Next button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[Test to perform transfer with QTAccount started !!!]]>
+    </line>
+    <line>
+      <![CDATA[emailAddress entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[Password entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[SignIn button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[New  button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[Account Number entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[Search entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[Select Search entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[Next button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[Amount Entered]]>
+    </line>
+    <line>
+      <![CDATA[Narration entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[Send button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[QuicktellerAccount Selected for Transfer Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Transfer Pin Clicked Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Successful Transfer Asserted successfully]]>
+    </line>
+    <line>
+      <![CDATA[Receipt Viewed Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Test to perform transfer with QTAccount completed !!!]]>
+    </line>
+    <line>
+      <![CDATA[Test to perform transfer with QTAccount Using Invalid Pin started !!!]]>
+    </line>
+    <line>
+      <![CDATA[emailAddress entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[Password entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[SignIn button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[New  button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[Account Number entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[Search entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[Select Search entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[Next button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[Amount Entered]]>
+    </line>
+    <line>
+      <![CDATA[Narration entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[Send button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[QuicktellerAccount Selected for Transfer Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Transfer Pin Clicked Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Invalid Transaction Pin Asserted successfully]]>
+    </line>
+    <line>
+      <![CDATA[Test to perform transfer with QTAccount Using Invalid Pin completed !!!]]>
+    </line>
+    <line>
+      <![CDATA[Test to perform Fund QTAccount started !!!]]>
+    </line>
+    <line>
+      <![CDATA[emailAddress entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[Password entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[SignIn button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[Add Money Button Clicked Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Amount Entered]]>
+    </line>
+    <line>
+      <![CDATA[Pay Button Clicked Successfully]]>
+    </line>
+    <line>
+      <![CDATA[New card selected]]>
+    </line>
+    <line>
+      <![CDATA[Card number input]]>
+    </line>
+    <line>
+      <![CDATA[CardExpiryDate input]]>
+    </line>
+    <line>
+      <![CDATA[CardCVV input]]>
+    </line>
+    <line>
+      <![CDATA[Card Pin input]]>
+    </line>
+    <line>
+      <![CDATA[Next button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[=====Chrome Browser Session Started=====]]>
+    </line>
+    <line>
+      <![CDATA[Test to check user should not be able to recharge with invalid phoneNumber started !!!]]>
+    </line>
+    <line>
+      <![CDATA[emailAddress entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[Password entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[SignIn button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[Airtime button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[New Airtime button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[PhoneNumber Entered]]>
+    </line>
+    <line>
+      <![CDATA[Assertion of InvalidphoneNumberInput successful]]>
+    </line>
+    <line>
+      <![CDATA[Test to check user should not be able to recharge with invalid phoneNumber completed !!!]]>
+    </line>
+    <line>
+      <![CDATA[Test to perform recharge with QTAccount started !!!]]>
+    </line>
+    <line>
+      <![CDATA[emailAddress entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[Password entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[SignIn button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[Airtime button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[New Airtime button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[PhoneNumber Entered]]>
+    </line>
+    <line>
+      <![CDATA[Glo Clicked Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Next button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[Amount Entered]]>
+    </line>
+    <line>
+      <![CDATA[Pay button clicked]]>
+    </line>
+    <line>
+      <![CDATA[QuicktellerAccount Selected for Airtime Recharge]]>
+    </line>
+    <line>
+      <![CDATA[Transfer Button Clicked Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Recharge Successful]]>
+    </line>
+    <line>
+      <![CDATA[Receipt clicked]]>
+    </line>
+    <line>
+      <![CDATA[Receipt closed successfully]]>
+    </line>
+    <line>
+      <![CDATA[Done Clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[Test to perform recharge with QTAccount completed !!!]]>
+    </line>
+    <line>
+      <![CDATA[Test to perform recharge with QTAccount using Invalid Transacton Pin started !!!]]>
+    </line>
+    <line>
+      <![CDATA[emailAddress entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[Password entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[SignIn button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[Airtime button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[New Airtime button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[PhoneNumber Entered]]>
+    </line>
+    <line>
+      <![CDATA[Glo Clicked Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Next button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[Amount Entered]]>
+    </line>
+    <line>
+      <![CDATA[Pay button clicked]]>
+    </line>
+    <line>
+      <![CDATA[QuicktellerAccount Selected for Airtime Recharge]]>
+    </line>
+    <line>
+      <![CDATA[Transfer Button Clicked Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Invalid Transaction Pin Asserted successfully]]>
+    </line>
+    <line>
+      <![CDATA[Test to perform recharge with QTAccount using Invalid Transacton Pin completed !!!]]>
+    </line>
+    <line>
+      <![CDATA[Test to perform recharge with card started !!!]]>
+    </line>
+    <line>
+      <![CDATA[emailAddress entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[Password entered successfully]]>
+    </line>
+    <line>
+      <![CDATA[SignIn button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[Airtime button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[New Airtime button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[PhoneNumber Entered]]>
+    </line>
+    <line>
+      <![CDATA[Glo Clicked Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Next button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[Amount Entered]]>
+    </line>
+    <line>
+      <![CDATA[Pay button clicked]]>
+    </line>
+    <line>
+      <![CDATA[New card selected]]>
+    </line>
+    <line>
+      <![CDATA[Card number input]]>
+    </line>
+    <line>
+      <![CDATA[CardExpiryDate input]]>
+    </line>
+    <line>
+      <![CDATA[CardCVV input]]>
+    </line>
+    <line>
+      <![CDATA[CardPin input]]>
+    </line>
+    <line>
+      <![CDATA[Next button clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[Recharge Successful]]>
+    </line>
+    <line>
+      <![CDATA[Receipt clicked]]>
+    </line>
+    <line>
+      <![CDATA[Receipt closed successfully]]>
+    </line>
+    <line>
+      <![CDATA[Done Clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[Test to perform recharge with card completed !!!]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-09-20T13:13:46Z" name="rebirthQuicktellerSuite" finished-at="2023-09-20T13:25:49Z" duration-ms="722737">
+    <groups>
+    </groups>
+    <test started-at="2023-09-20T13:13:46Z" name="SignUp" finished-at="2023-09-20T13:18:43Z" duration-ms="296823">
+      <class name="com.rebirthQuickteller.TestCases.SignUp">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.rebirthQuickteller.TestCases.SignUp@3212a8d7]" started-at="2023-09-20T13:13:46Z" name="setUp" finished-at="2023-09-20T13:13:58Z" duration-ms="11610" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[=====Chrome Browser Session Started=====]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="AlreadyExistPhonenumberSignUp()[pri:1, instance:com.rebirthQuickteller.TestCases.SignUp@3212a8d7]" started-at="2023-09-20T13:13:58Z" name="AlreadyExistPhonenumberSignUp" description="This test case will verify user can&#039;t sign up with already exist phoneNumber" finished-at="2023-09-20T13:14:02Z" duration-ms="3879" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test to verify user can't sign up with already exist phoneNumber started !!!]]>
+            </line>
+            <line>
+              <![CDATA[SignUp button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[Sign up with phonenumber button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[Search entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[Country code selected successfully]]>
+            </line>
+            <line>
+              <![CDATA[phoneNumber entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[ClickTermConditionButton clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[SignUp button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[AlreadyexistPhonenumber error message Asserted]]>
+            </line>
+            <line>
+              <![CDATA[Test to verify user can't login with sign up with already exist phoneNumber completed !!!]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- AlreadyExistPhonenumberSignUp -->
+        <test-method signature="InvalidPhonenumberSignUp()[pri:2, instance:com.rebirthQuickteller.TestCases.SignUp@3212a8d7]" started-at="2023-09-20T13:14:02Z" name="InvalidPhonenumberSignUp" description="This test case will check user can&#039;t signup using invalid phonenumber " finished-at="2023-09-20T13:14:06Z" duration-ms="4400" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test to verify user can't signup using invalid phonenumber started !!!]]>
+            </line>
+            <line>
+              <![CDATA[SignUp button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[Sign up with phonenumber button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[Search entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[Country code selected successfully]]>
+            </line>
+            <line>
+              <![CDATA[phoneNumber entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[ClickTermConditionButton clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[Invalid PhoneNumber Asserted]]>
+            </line>
+            <line>
+              <![CDATA[Test to verify user can't signup using invalid phonenumber completed !!!]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- InvalidPhonenumberSignUp -->
+        <test-method signature="InvalidPasswordCheck1()[pri:4, instance:com.rebirthQuickteller.TestCases.SignUp@3212a8d7]" started-at="2023-09-20T13:14:06Z" name="InvalidPasswordCheck1" description="This test case will check user must provide password that Contain 1 Number" finished-at="2023-09-20T13:14:20Z" duration-ms="14100" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test to confirm user must provide password that Contain 1 Number started !!!]]>
+            </line>
+            <line>
+              <![CDATA[SignUp button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[Sign up with phonenumber button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[Search entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[Country code selected successfully]]>
+            </line>
+            <line>
+              <![CDATA[phoneNumber entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[ClickTermConditionButton clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[SignUp button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[OTP entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[password entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[confirmPassword entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[Password Must Contain 1 Number Assertion successful]]>
+            </line>
+            <line>
+              <![CDATA[Test to confirm user must provide password that Contain 1 Number completed !!!]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- InvalidPasswordCheck1 -->
+        <test-method signature="InvalidPasswordCheck2()[pri:5, instance:com.rebirthQuickteller.TestCases.SignUp@3212a8d7]" started-at="2023-09-20T13:14:20Z" name="InvalidPasswordCheck2" description="This test case will check user must provide password that Contain LowerCaseLetter" finished-at="2023-09-20T13:14:21Z" duration-ms="646" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test to confirm user must provide password that Contain LowerCaseLetter started !!!]]>
+            </line>
+            <line>
+              <![CDATA[password entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[confirmPassword entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[Password Must Contain LowerCase Letter Assertion successful]]>
+            </line>
+            <line>
+              <![CDATA[Test to confirm user must provide password that Contain LowerCaseLetter completed !!!]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- InvalidPasswordCheck2 -->
+        <test-method signature="InvalidPasswordCheck3()[pri:6, instance:com.rebirthQuickteller.TestCases.SignUp@3212a8d7]" started-at="2023-09-20T13:14:21Z" name="InvalidPasswordCheck3" description="This test case will check user must provide password that Contain UpperCaseLetter" finished-at="2023-09-20T13:14:22Z" duration-ms="558" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test to confirm user must provide password that Contain UpperCaseLetter started !!!]]>
+            </line>
+            <line>
+              <![CDATA[password entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[confirmPassword entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[Password Must Contain UpperCase Letter Assertion successful]]>
+            </line>
+            <line>
+              <![CDATA[Test to confirm user must provide password that Contain UpperCaseLetter completed !!!]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- InvalidPasswordCheck3 -->
+        <test-method signature="InvalidPasswordCheck4()[pri:7, instance:com.rebirthQuickteller.TestCases.SignUp@3212a8d7]" started-at="2023-09-20T13:14:22Z" name="InvalidPasswordCheck4" description="This test case will check user must provide the same password and confirmPassword" finished-at="2023-09-20T13:14:22Z" duration-ms="659" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test to confirm user must provide the same password and confirmPassword started !!!]]>
+            </line>
+            <line>
+              <![CDATA[password entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[confirmPassword entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[Password must match Assertion successful]]>
+            </line>
+            <line>
+              <![CDATA[Test to confirm user must provide the same password and confirmPassword completed !!!]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- InvalidPasswordCheck4 -->
+        <test-method signature="InvalidPasswordCheck5()[pri:8, instance:com.rebirthQuickteller.TestCases.SignUp@3212a8d7]" started-at="2023-09-20T13:14:22Z" name="InvalidPasswordCheck5" description="This test case will check user must provide password that contains 1 Special Character" finished-at="2023-09-20T13:14:23Z" duration-ms="627" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test to confirm user must provide password that contains 1 Special Character started !!!]]>
+            </line>
+            <line>
+              <![CDATA[password entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[confirmPassword entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[Password must match Assertion successful]]>
+            </line>
+            <line>
+              <![CDATA[Test to confirm user must provide password that contains 1 Special Character completed !!!]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- InvalidPasswordCheck5 -->
+        <test-method signature="InvalidPasswordCheck6()[pri:9, instance:com.rebirthQuickteller.TestCases.SignUp@3212a8d7]" started-at="2023-09-20T13:14:23Z" name="InvalidPasswordCheck6" description="This test case will check user must provide password that contains 8 Character" finished-at="2023-09-20T13:14:24Z" duration-ms="617" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test to confirm user must provide password that contains 8 Character started !!!]]>
+            </line>
+            <line>
+              <![CDATA[password entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[confirmPassword entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[Password Must Contain 8 Character Assertion successful]]>
+            </line>
+            <line>
+              <![CDATA[Test to confirm user must provide password that contains 8 Character completed !!!]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- InvalidPasswordCheck6 -->
+        <test-method signature="CheckFirstNameIsRequiredToCompleteOnboarding()[pri:10, instance:com.rebirthQuickteller.TestCases.SignUp@3212a8d7]" started-at="2023-09-20T13:14:24Z" name="CheckFirstNameIsRequiredToCompleteOnboarding" description="This test case will check user must provide firstName to complete Onboarding Process" finished-at="2023-09-20T13:14:55Z" duration-ms="31633" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test to confirm user must provide firstName to complete Onboarding Process started !!!]]>
+            </line>
+            <line>
+              <![CDATA[SignUp button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[Sign up with phonenumber button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[Search entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[Country code selected successfully]]>
+            </line>
+            <line>
+              <![CDATA[phoneNumber entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[ClickTermConditionButton clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[SignUp button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[OTP entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[password entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[confirmPassword entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[Next button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[WelcometoQuickteller message asserted]]>
+            </line>
+            <line>
+              <![CDATA[Get Started button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[LastName NAME entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[Gender selected successfully]]>
+            </line>
+            <line>
+              <![CDATA[DateofBirth entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[quickTag NAME entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[RefferalName entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[Test to confirm user must provide firstName to complete Onboarding Process completed !!!]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CheckFirstNameIsRequiredToCompleteOnboarding -->
+        <test-method signature="CheckLastNameIsRequiredToCompleteOnboarding()[pri:11, instance:com.rebirthQuickteller.TestCases.SignUp@3212a8d7]" started-at="2023-09-20T13:14:55Z" name="CheckLastNameIsRequiredToCompleteOnboarding" description="This test case will check user must provide lastName to complete Onboarding Process" finished-at="2023-09-20T13:15:36Z" duration-ms="40350" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test to confirm user must provide lastName to complete Onboarding Process started !!!]]>
+            </line>
+            <line>
+              <![CDATA[SignUp button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[Sign up with phonenumber button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[Search entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[Country code selected successfully]]>
+            </line>
+            <line>
+              <![CDATA[phoneNumber entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[ClickTermConditionButton clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[SignUp button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[OTP entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[password entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[confirmPassword entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[Next button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[WelcometoQuickteller message asserted]]>
+            </line>
+            <line>
+              <![CDATA[Get Started button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[FirstName_NAME entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[Gender selected successfully]]>
+            </line>
+            <line>
+              <![CDATA[DateofBirth entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[quickTag NAME entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[RefferalName entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[Test to confirm user must provide lastName to complete Onboarding Process completed !!!]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CheckLastNameIsRequiredToCompleteOnboarding -->
+        <test-method signature="CheckGenderIsRequiredToCompleteOnboarding()[pri:12, instance:com.rebirthQuickteller.TestCases.SignUp@3212a8d7]" started-at="2023-09-20T13:15:36Z" name="CheckGenderIsRequiredToCompleteOnboarding" description="This test case will check user must provide gender to complete Onboarding Process" finished-at="2023-09-20T13:16:15Z" duration-ms="39885" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test to confirm user must provide gender to complete Onboarding Process started !!!]]>
+            </line>
+            <line>
+              <![CDATA[SignUp button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[Sign up with phonenumber button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[Search entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[Country code selected successfully]]>
+            </line>
+            <line>
+              <![CDATA[phoneNumber entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[ClickTermConditionButton clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[SignUp button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[OTP entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[password entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[confirmPassword entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[Next button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[WelcometoQuickteller message asserted]]>
+            </line>
+            <line>
+              <![CDATA[Get Started button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[FirstName_NAME entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[LastName NAME entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[DateofBirth entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[quickTag NAME entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[RefferalName entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[Test to confirm user must provide gender to complete Onboarding Process completed !!!]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CheckGenderIsRequiredToCompleteOnboarding -->
+        <test-method signature="CheckDateOfBirthIsRequiredToCompleteOnboarding()[pri:13, instance:com.rebirthQuickteller.TestCases.SignUp@3212a8d7]" started-at="2023-09-20T13:16:15Z" name="CheckDateOfBirthIsRequiredToCompleteOnboarding" description="This test case will check user must provide dateofbirth to complete Onboarding Process" finished-at="2023-09-20T13:16:57Z" duration-ms="41377" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test to confirm user must provide dateofbirth to complete Onboarding Process started !!!]]>
+            </line>
+            <line>
+              <![CDATA[SignUp button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[Sign up with phonenumber button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[Search entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[Country code selected successfully]]>
+            </line>
+            <line>
+              <![CDATA[phoneNumber entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[ClickTermConditionButton clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[SignUp button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[OTP entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[password entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[confirmPassword entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[Next button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[WelcometoQuickteller message asserted]]>
+            </line>
+            <line>
+              <![CDATA[Get Started button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[FirstName_NAME entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[LastName NAME entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[Gender selected successfully]]>
+            </line>
+            <line>
+              <![CDATA[quickTag NAME entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[RefferalName entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[Test to confirm user must provide dateofbirth to complete Onboarding Process completed !!!]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CheckDateOfBirthIsRequiredToCompleteOnboarding -->
+        <test-method signature="CheckPinMisMatchisNotPermmittedToCompleteOnboarding()[pri:14, instance:com.rebirthQuickteller.TestCases.SignUp@3212a8d7]" started-at="2023-09-20T13:16:57Z" name="CheckPinMisMatchisNotPermmittedToCompleteOnboarding" description="This test case will check user must provide match pin and confirm pin to complete Onboarding Process" finished-at="2023-09-20T13:17:32Z" duration-ms="35465" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test to confirm user must provide match pin and confirm pin to complete Onboarding Process started !!!]]>
+            </line>
+            <line>
+              <![CDATA[SignUp button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[Sign up with phonenumber button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[Search entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[Country code selected successfully]]>
+            </line>
+            <line>
+              <![CDATA[phoneNumber entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[ClickTermConditionButton clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[SignUp button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[OTP entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[password entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[confirmPassword entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[Next button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[WelcometoQuickteller message asserted]]>
+            </line>
+            <line>
+              <![CDATA[Get Started button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[FirstName_NAME entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[LastName NAME entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[Gender selected successfully]]>
+            </line>
+            <line>
+              <![CDATA[DateofBirth entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[quickTag NAME entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[RefferalName entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[Next button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[Pin entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[ConfirmPin entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[SavePin button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[Pin MisMatch error message Asserted]]>
+            </line>
+            <line>
+              <![CDATA[Test to confirm user must provide match pin and confirm pin to complete Onboarding Process completed !!!]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CheckPinMisMatchisNotPermmittedToCompleteOnboarding -->
+        <test-method signature="CheckPinRepetitiveisNotPermmittedToCompleteOnboarding()[pri:15, instance:com.rebirthQuickteller.TestCases.SignUp@3212a8d7]" started-at="2023-09-20T13:17:32Z" name="CheckPinRepetitiveisNotPermmittedToCompleteOnboarding" description="This test case will check user must provide pin and confirm pin that is not repetitive or sequential to complete Onboarding Process" finished-at="2023-09-20T13:18:11Z" duration-ms="39045" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test to confirm user must provide pin and confirm pin that is not repetitive or sequential to complete Onboarding Process started !!!]]>
+            </line>
+            <line>
+              <![CDATA[SignUp button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[Sign up with phonenumber button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[Search entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[Country code selected successfully]]>
+            </line>
+            <line>
+              <![CDATA[phoneNumber entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[ClickTermConditionButton clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[SignUp button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[OTP entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[password entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[confirmPassword entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[Next button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[WelcometoQuickteller message asserted]]>
+            </line>
+            <line>
+              <![CDATA[Get Started button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[FirstName_NAME entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[LastName NAME entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[Gender selected successfully]]>
+            </line>
+            <line>
+              <![CDATA[DateofBirth entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[RefferalName entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[Next button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[Pin entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[ConfirmPin entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[SavePin button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[Pin Repetitive/Sequential error message Asserted]]>
+            </line>
+            <line>
+              <![CDATA[Test to confirm user must provide pin and confirm pin that is not repetitive or sequential to complete Onboarding Process completed !!!]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CheckPinRepetitiveisNotPermmittedToCompleteOnboarding -->
+        <test-method signature="SignUpwithPhoneNumber()[pri:16, instance:com.rebirthQuickteller.TestCases.SignUp@3212a8d7]" started-at="2023-09-20T13:18:11Z" name="SignUpwithPhoneNumber" description="This test case will verify user can signup with phonenumber using valid credentials" finished-at="2023-09-20T13:18:43Z" duration-ms="31820" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test to verify user can signup with phonenumber using valid credentials started !!!]]>
+            </line>
+            <line>
+              <![CDATA[SignUp button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[Sign up with phonenumber button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[Search entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[Country code selected successfully]]>
+            </line>
+            <line>
+              <![CDATA[phoneNumber entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[ClickTermConditionButton clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[SignUp button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[OTP entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[password entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[confirmPassword entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[Next button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[WelcometoQuickteller message asserted]]>
+            </line>
+            <line>
+              <![CDATA[Get Started button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[FirstName_NAME entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[LastName NAME entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[Gender selected successfully]]>
+            </line>
+            <line>
+              <![CDATA[DateofBirth entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[RefferalName entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[Next button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[Profile Update success message Asserted]]>
+            </line>
+            <line>
+              <![CDATA[Pin entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[ConfirmPin entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[SavePin button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[Pin set success message Asserted]]>
+            </line>
+            <line>
+              <![CDATA[Test to verify user can signup with phonenumber using valid credentials completed !!!]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SignUpwithPhoneNumber -->
+        <test-method is-config="true" signature="terminateSession()[pri:0, instance:com.rebirthQuickteller.TestCases.SignUp@3212a8d7]" started-at="2023-09-20T13:18:43Z" name="terminateSession" finished-at="2023-09-20T13:18:43Z" duration-ms="104" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminateSession -->
+      </class> <!-- com.rebirthQuickteller.TestCases.SignUp -->
+    </test> <!-- SignUp -->
+    <test started-at="2023-09-20T13:18:43Z" name="Validate Login" finished-at="2023-09-20T13:19:56Z" duration-ms="72539">
+      <class name="com.rebirthQuickteller.TestCases.ValidateLogin">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.rebirthQuickteller.TestCases.ValidateLogin@5fe1ce85]" started-at="2023-09-20T13:18:43Z" name="setUp" finished-at="2023-09-20T13:18:51Z" duration-ms="7323" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[=====Chrome Browser Session Started=====]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="LoginWithInvalidEmailInput()[pri:1, instance:com.rebirthQuickteller.TestCases.ValidateLogin@5fe1ce85]" started-at="2023-09-20T13:18:51Z" name="LoginWithInvalidEmailInput" description="This test case will verify user can&#039;t login with invalid email and a valid password fields" finished-at="2023-09-20T13:18:51Z" duration-ms="737" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test to verify user can't login with invalid email and a valid password fields started !!!]]>
+            </line>
+            <line>
+              <![CDATA[emailAddress entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[Assertion of InvalidEmailInput successful]]>
+            </line>
+            <line>
+              <![CDATA[Password entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[Test to verify user can't login with invalid email and a valid password fields completed !!!]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LoginWithInvalidEmailInput -->
+        <test-method signature="LoginWithUnregisteredEmail()[pri:2, instance:com.rebirthQuickteller.TestCases.ValidateLogin@5fe1ce85]" started-at="2023-09-20T13:18:51Z" name="LoginWithUnregisteredEmail" description="This test case will verify user can&#039;t login with UnregisteredEmail and a valid password fields" finished-at="2023-09-20T13:18:53Z" duration-ms="1217" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test to verify user can't login with  UnregisteredEmail and a valid password fields started !!!]]>
+            </line>
+            <line>
+              <![CDATA[emailAddress entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[Password entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[SignIn button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[Assertion of UnregisteredEmail successful]]>
+            </line>
+            <line>
+              <![CDATA[Test to verify user can't login with  UnregisteredEmail and a valid password fields completed !!!]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LoginWithUnregisteredEmail -->
+        <test-method signature="EmailLoginWithEmptyEmailAddressField()[pri:3, instance:com.rebirthQuickteller.TestCases.ValidateLogin@5fe1ce85]" started-at="2023-09-20T13:18:53Z" name="EmailLoginWithEmptyEmailAddressField" description="This test case will verify user can&#039;t login with empty email fields and valid password" finished-at="2023-09-20T13:18:53Z" duration-ms="518" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test to verify user can't login with empty email fields and valid password started !!!]]>
+            </line>
+            <line>
+              <![CDATA[emailAddress entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[Password entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[Test to verify user can't login with empty email fields and valid password completed !!!]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- EmailLoginWithEmptyEmailAddressField -->
+        <test-method signature="EmailLoginWithEmptyPasswordField()[pri:4, instance:com.rebirthQuickteller.TestCases.ValidateLogin@5fe1ce85]" started-at="2023-09-20T13:18:53Z" name="EmailLoginWithEmptyPasswordField" description="This test case will verify user can&#039;t login with empty pasword fields and valid email address" finished-at="2023-09-20T13:18:54Z" duration-ms="532" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test to verify user can't login with empty pasword fields and valid email address started !!!]]>
+            </line>
+            <line>
+              <![CDATA[emailAddress entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[Password entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[Test to verify user can't login with empty pasword fields and valid email address completed !!!]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- EmailLoginWithEmptyPasswordField -->
+        <test-method signature="EmailLoginwithInvalidPassword()[pri:5, instance:com.rebirthQuickteller.TestCases.ValidateLogin@5fe1ce85]" started-at="2023-09-20T13:18:54Z" name="EmailLoginwithInvalidPassword" description="This test case will verify user can&#039;t login with valid email and a wrong password fields" finished-at="2023-09-20T13:18:58Z" duration-ms="4256" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test to verify user can't login with  valid email and a wrong password fields started !!!]]>
+            </line>
+            <line>
+              <![CDATA[emailAddress entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[Password entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[SignIn button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[Assertion of Invalid Password successful]]>
+            </line>
+            <line>
+              <![CDATA[Test to verify user can't login with  valid email and a wrong password fields completed !!!]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- EmailLoginwithInvalidPassword -->
+        <test-method signature="EmailLoginwithValidcredentials()[pri:6, instance:com.rebirthQuickteller.TestCases.ValidateLogin@5fe1ce85]" started-at="2023-09-20T13:18:58Z" name="EmailLoginwithValidcredentials" description="This TestCase will perform email login with valid credentials" finished-at="2023-09-20T13:19:04Z" duration-ms="6208" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test to perform login with valid email and password started !!!]]>
+            </line>
+            <line>
+              <![CDATA[emailAddress entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[Password entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[SignIn button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[Logout successfully]]>
+            </line>
+            <line>
+              <![CDATA[Test to perform login with valid email and password completed !!!]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- EmailLoginwithValidcredentials -->
+        <test-method signature="ValidateEmailLoginWithRememberMe()[pri:7, instance:com.rebirthQuickteller.TestCases.ValidateLogin@5fe1ce85]" started-at="2023-09-20T13:19:04Z" name="ValidateEmailLoginWithRememberMe" description="This TestCase will perform valid login with rememberMe" finished-at="2023-09-20T13:19:15Z" duration-ms="10690" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test to perform valid login with rememberMe started !!!]]>
+            </line>
+            <line>
+              <![CDATA[emailAddress entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[Password entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[SignIn button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[Logout successfully]]>
+            </line>
+            <line>
+              <![CDATA[Password entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[SignIn button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[Logout successfully]]>
+            </line>
+            <line>
+              <![CDATA[Test to perform valid email login with rememberMe completed !!!]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ValidateEmailLoginWithRememberMe -->
+        <test-method signature="LoginWithInvalidPhoneNumberInput()[pri:8, instance:com.rebirthQuickteller.TestCases.ValidateLogin@5fe1ce85]" started-at="2023-09-20T13:19:15Z" name="LoginWithInvalidPhoneNumberInput" description="This test case will verify user can&#039;t login with invalid phoneNumber fields" finished-at="2023-09-20T13:19:16Z" duration-ms="1196" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test to verify user can't login with invalid phoneNumber fields started !!!]]>
+            </line>
+            <line>
+              <![CDATA[Sign In with PhoneNumber button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[phoneNumber entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[Assertion of InvalidphoneNumberInput successful]]>
+            </line>
+            <line>
+              <![CDATA[Test to verify user can't login with invalid phoneNumber fields fields completed !!!]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LoginWithInvalidPhoneNumberInput -->
+        <test-method signature="LoginWithUnRegisteredPhonenumber()[pri:9, instance:com.rebirthQuickteller.TestCases.ValidateLogin@5fe1ce85]" started-at="2023-09-20T13:19:16Z" name="LoginWithUnRegisteredPhonenumber" description="This test case will verify user can&#039;t login with  UnregisteredPhoneNumber and a valid password fields" finished-at="2023-09-20T13:19:22Z" duration-ms="5913" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test to verify user can't login with  UnregisteredPhoneNumber and a valid password fields started !!!]]>
+            </line>
+            <line>
+              <![CDATA[phoneNumber entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[Password entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[SignIn button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[Assertion of UnregisteredPhoneNumber successful]]>
+            </line>
+            <line>
+              <![CDATA[Test to verify user can't login with  UnregisteredPhoneNumber and a valid password fields completed !!!]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LoginWithUnRegisteredPhonenumber -->
+        <test-method signature="LoginWithEmptyPhonenumberField()[pri:10, instance:com.rebirthQuickteller.TestCases.ValidateLogin@5fe1ce85]" started-at="2023-09-20T13:19:22Z" name="LoginWithEmptyPhonenumberField" description="This test case will verify user can&#039;t login with empty phoneNumber fields and valid password" finished-at="2023-09-20T13:19:23Z" duration-ms="695" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test to verify user can't login with empty phoneNumber fields and valid password started !!!]]>
+            </line>
+            <line>
+              <![CDATA[phoneNumber entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[Password entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[Test to verify user can't login with empty phoneNumber fields and valid password completed !!!]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LoginWithEmptyPhonenumberField -->
+        <test-method signature="phoneNumberLoginWithEmptyPasswordField()[pri:11, instance:com.rebirthQuickteller.TestCases.ValidateLogin@5fe1ce85]" started-at="2023-09-20T13:19:23Z" name="phoneNumberLoginWithEmptyPasswordField" description="This test case will verify user can&#039;t login with empty pasword fields and valid phoneNumber" finished-at="2023-09-20T13:19:23Z" duration-ms="796" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test to verify user can't login with empty pasword fields and valid phoneNumber started !!!]]>
+            </line>
+            <line>
+              <![CDATA[phoneNumber entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[Password entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[Test to verify user can't login with empty pasword fields and valid phoneNumber completed !!!]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- phoneNumberLoginWithEmptyPasswordField -->
+        <test-method signature="PhoneNumberLoginWithInvalidPassword()[pri:12, instance:com.rebirthQuickteller.TestCases.ValidateLogin@5fe1ce85]" started-at="2023-09-20T13:19:23Z" name="PhoneNumberLoginWithInvalidPassword" description="This test case will verify user can&#039;t login with valid phoneNumber and a wrong password fields" finished-at="2023-09-20T13:19:33Z" duration-ms="9718" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test to verify user can't login with valid phoneNumber and a wrong password fields started !!!]]>
+            </line>
+            <line>
+              <![CDATA[phoneNumber entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[Password entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[SignIn button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[Assertion of Invalid Password successful]]>
+            </line>
+            <line>
+              <![CDATA[Test to verify user can't login with valid phoneNumber and a wrong password fields completed !!!]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- PhoneNumberLoginWithInvalidPassword -->
+        <test-method signature="PhoneNumberLoginWithValidCredentials()[pri:13, instance:com.rebirthQuickteller.TestCases.ValidateLogin@5fe1ce85]" started-at="2023-09-20T13:19:33Z" name="PhoneNumberLoginWithValidCredentials" description="This TestCase will perform phoneNumber login with valid credentials" finished-at="2023-09-20T13:19:41Z" duration-ms="7447" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test to perform phoneNumber login with valid credentials started !!!]]>
+            </line>
+            <line>
+              <![CDATA[phoneNumber entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[Password entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[SignIn button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[Logout successfully]]>
+            </line>
+            <line>
+              <![CDATA[Test to perform phoneNumber login with valid credentials completed !!!]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- PhoneNumberLoginWithValidCredentials -->
+        <test-method signature="ValidatePhonenumberLoginWithRememberMe()[pri:14, instance:com.rebirthQuickteller.TestCases.ValidateLogin@5fe1ce85]" started-at="2023-09-20T13:19:41Z" name="ValidatePhonenumberLoginWithRememberMe" description="This TestCase will perform valid phoneNumber login with rememberMe" finished-at="2023-09-20T13:19:56Z" duration-ms="15154" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test to perform valid phoneNumber login with rememberMe started !!!]]>
+            </line>
+            <line>
+              <![CDATA[Sign In with PhoneNumber button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[phoneNumber entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[Password entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[SignIn button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[Logout successfully]]>
+            </line>
+            <line>
+              <![CDATA[Sign In with PhoneNumber button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[Password entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[SignIn button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[Logout successfully]]>
+            </line>
+            <line>
+              <![CDATA[Test to perform valid PhoneNumberlogin with rememberMe completed !!!]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ValidatePhonenumberLoginWithRememberMe -->
+        <test-method is-config="true" signature="terminateSession()[pri:0, instance:com.rebirthQuickteller.TestCases.ValidateLogin@5fe1ce85]" started-at="2023-09-20T13:19:56Z" name="terminateSession" finished-at="2023-09-20T13:19:56Z" duration-ms="127" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminateSession -->
+      </class> <!-- com.rebirthQuickteller.TestCases.ValidateLogin -->
+    </test> <!-- Validate Login -->
+    <test started-at="2023-09-20T13:19:56Z" name="SendMoney" finished-at="2023-09-20T13:24:00Z" duration-ms="244041">
+      <class name="com.rebirthQuickteller.TestCases.SendMoney">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.rebirthQuickteller.TestCases.SendMoney@604f2bd2]" started-at="2023-09-20T13:19:56Z" name="setUp" finished-at="2023-09-20T13:20:06Z" duration-ms="10386" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[=====Chrome Browser Session Started=====]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="CardTransferWithValidDetails()[pri:1, instance:com.rebirthQuickteller.TestCases.SendMoney@604f2bd2]" started-at="2023-09-20T13:20:06Z" name="CardTransferWithValidDetails" description="This test case will perform transfer with card" finished-at="2023-09-20T13:21:40Z" duration-ms="93237" status="FAIL">
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[Expected condition failed: waiting for visibility of element located by By.xpath: //p[contains(.,'Money sent!')] (tried for 60 second(s) with 500 milliseconds interval)]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //p[contains(.,'Money sent!')] (tried for 60 second(s) with 500 milliseconds interval)
+at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+at pages.SendMoneyPageObjects.SuccessfulTransferAssertion(SendMoneyPageObjects.java:183)
+at com.rebirthQuickteller.TestCases.SendMoney.CardTransferWithValidDetails(SendMoney.java:46)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:281)
+at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:121)
+at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:290)
+at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:242)
+at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:121)
+Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//p[contains(.,'Money sent!')]"}
+  (Session info: headless chrome=116.0.5845.188)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ISW-230323-1218', ip: '192.168.1.46', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.188, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: C:\Users\ADEMOL~1.OYE\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52655}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a96b2c60f6a0b88994b1a27dabc3bc93
+*** Element info: {Using=xpath, value=//p[contains(.,'Money sent!')]}
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:205)
+at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:201)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
+... 30 more
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Test to perform transfer with card started !!!]]>
+            </line>
+            <line>
+              <![CDATA[emailAddress entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[Password entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[SignIn button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[New  button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[Account Number entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[Search entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[Select Search entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[Next button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[Amount Entered]]>
+            </line>
+            <line>
+              <![CDATA[Narration entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[Send button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[New card selected]]>
+            </line>
+            <line>
+              <![CDATA[Card number input]]>
+            </line>
+            <line>
+              <![CDATA[CardExpiryDate input]]>
+            </line>
+            <line>
+              <![CDATA[CardCVV input]]>
+            </line>
+            <line>
+              <![CDATA[Card Pin input]]>
+            </line>
+            <line>
+              <![CDATA[Next button clicked successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CardTransferWithValidDetails -->
+        <test-method signature="QtAccountTransferWithValidDetails()[pri:2, instance:com.rebirthQuickteller.TestCases.SendMoney@604f2bd2]" started-at="2023-09-20T13:21:40Z" name="QtAccountTransferWithValidDetails" description="This test case will perform transfer with QtAccount" finished-at="2023-09-20T13:21:58Z" duration-ms="18870" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test to perform transfer with QTAccount started !!!]]>
+            </line>
+            <line>
+              <![CDATA[emailAddress entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[Password entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[SignIn button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[New  button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[Account Number entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[Search entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[Select Search entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[Next button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[Amount Entered]]>
+            </line>
+            <line>
+              <![CDATA[Narration entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[Send button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[QuicktellerAccount Selected for Transfer Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Transfer Pin Clicked Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Successful Transfer Asserted successfully]]>
+            </line>
+            <line>
+              <![CDATA[Receipt Viewed Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Test to perform transfer with QTAccount completed !!!]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- QtAccountTransferWithValidDetails -->
+        <test-method signature="QtAccountTransferWithInValidPIN()[pri:3, instance:com.rebirthQuickteller.TestCases.SendMoney@604f2bd2]" started-at="2023-09-20T13:21:58Z" name="QtAccountTransferWithInValidPIN" description="This test case will perform transfer with QtAccount Using Invalid Pin" finished-at="2023-09-20T13:22:16Z" duration-ms="18020" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test to perform transfer with QTAccount Using Invalid Pin started !!!]]>
+            </line>
+            <line>
+              <![CDATA[emailAddress entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[Password entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[SignIn button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[New  button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[Account Number entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[Search entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[Select Search entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[Next button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[Amount Entered]]>
+            </line>
+            <line>
+              <![CDATA[Narration entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[Send button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[QuicktellerAccount Selected for Transfer Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Transfer Pin Clicked Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Invalid Transaction Pin Asserted successfully]]>
+            </line>
+            <line>
+              <![CDATA[Test to perform transfer with QTAccount Using Invalid Pin completed !!!]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- QtAccountTransferWithInValidPIN -->
+        <test-method signature="FundAccountWithValidDetails()[pri:4, instance:com.rebirthQuickteller.TestCases.SendMoney@604f2bd2]" started-at="2023-09-20T13:22:16Z" name="FundAccountWithValidDetails" description="This test case will perform Fund QtAccount with CARD" finished-at="2023-09-20T13:24:00Z" duration-ms="103444" status="FAIL">
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[Expected condition failed: waiting for visibility of element located by By.xpath: //p[contains(.,'Money Added!')] (tried for 60 second(s) with 500 milliseconds interval)]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //p[contains(.,'Money Added!')] (tried for 60 second(s) with 500 milliseconds interval)
+at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+at pages.SendMoneyPageObjects.SuccessfulFundTransferAssertion(SendMoneyPageObjects.java:200)
+at com.rebirthQuickteller.TestCases.SendMoney.FundAccountWithValidDetails(SendMoney.java:136)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:281)
+at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:121)
+at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:290)
+at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:242)
+at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:121)
+Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//p[contains(.,'Money Added!')]"}
+  (Session info: headless chrome=116.0.5845.188)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ISW-230323-1218', ip: '192.168.1.46', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 116.0.5845.188, chrome: {chromedriverVersion: 116.0.5845.96 (1a3918166880..., userDataDir: C:\Users\ADEMOL~1.OYE\AppDa...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52655}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a96b2c60f6a0b88994b1a27dabc3bc93
+*** Element info: {Using=xpath, value=//p[contains(.,'Money Added!')]}
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:499)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:480)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)
+at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:205)
+at org.openqa.selenium.support.ui.ExpectedConditions$7.apply(ExpectedConditions.java:201)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
+... 30 more
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Test to perform Fund QTAccount started !!!]]>
+            </line>
+            <line>
+              <![CDATA[emailAddress entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[Password entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[SignIn button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[Add Money Button Clicked Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Amount Entered]]>
+            </line>
+            <line>
+              <![CDATA[Pay Button Clicked Successfully]]>
+            </line>
+            <line>
+              <![CDATA[New card selected]]>
+            </line>
+            <line>
+              <![CDATA[Card number input]]>
+            </line>
+            <line>
+              <![CDATA[CardExpiryDate input]]>
+            </line>
+            <line>
+              <![CDATA[CardCVV input]]>
+            </line>
+            <line>
+              <![CDATA[Card Pin input]]>
+            </line>
+            <line>
+              <![CDATA[Next button clicked successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- FundAccountWithValidDetails -->
+        <test-method is-config="true" signature="terminateSession()[pri:0, instance:com.rebirthQuickteller.TestCases.SendMoney@604f2bd2]" started-at="2023-09-20T13:24:00Z" name="terminateSession" finished-at="2023-09-20T13:24:00Z" duration-ms="65" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminateSession -->
+      </class> <!-- com.rebirthQuickteller.TestCases.SendMoney -->
+    </test> <!-- SendMoney -->
+    <test started-at="2023-09-20T13:24:00Z" name="Recharge" finished-at="2023-09-20T13:25:49Z" duration-ms="109141">
+      <class name="com.rebirthQuickteller.TestCases.Recharge">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.rebirthQuickteller.TestCases.Recharge@44b3606b]" started-at="2023-09-20T13:24:00Z" name="setUp" finished-at="2023-09-20T13:24:12Z" duration-ms="11535" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[=====Chrome Browser Session Started=====]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="InvalidphoneNumberAirtimeRecharge()[pri:1, instance:com.rebirthQuickteller.TestCases.Recharge@44b3606b]" started-at="2023-09-20T13:24:12Z" name="InvalidphoneNumberAirtimeRecharge" description="This test case will check user should not be able to recharge with invalid phoneNumber" finished-at="2023-09-20T13:24:19Z" duration-ms="7601" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test to check user should not be able to recharge with invalid phoneNumber started !!!]]>
+            </line>
+            <line>
+              <![CDATA[emailAddress entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[Password entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[SignIn button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[Airtime button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[New Airtime button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[PhoneNumber Entered]]>
+            </line>
+            <line>
+              <![CDATA[Assertion of InvalidphoneNumberInput successful]]>
+            </line>
+            <line>
+              <![CDATA[Test to check user should not be able to recharge with invalid phoneNumber completed !!!]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- InvalidphoneNumberAirtimeRecharge -->
+        <test-method signature="QTAccountAirtimeRecharge()[pri:2, instance:com.rebirthQuickteller.TestCases.Recharge@44b3606b]" started-at="2023-09-20T13:24:19Z" name="QTAccountAirtimeRecharge" description="This test case will perform recharge with QTAccount " finished-at="2023-09-20T13:24:56Z" duration-ms="37212" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test to perform recharge with QTAccount started !!!]]>
+            </line>
+            <line>
+              <![CDATA[emailAddress entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[Password entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[SignIn button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[Airtime button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[New Airtime button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[PhoneNumber Entered]]>
+            </line>
+            <line>
+              <![CDATA[Glo Clicked Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Next button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[Amount Entered]]>
+            </line>
+            <line>
+              <![CDATA[Pay button clicked]]>
+            </line>
+            <line>
+              <![CDATA[QuicktellerAccount Selected for Airtime Recharge]]>
+            </line>
+            <line>
+              <![CDATA[Transfer Button Clicked Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Recharge Successful]]>
+            </line>
+            <line>
+              <![CDATA[Receipt clicked]]>
+            </line>
+            <line>
+              <![CDATA[Receipt closed successfully]]>
+            </line>
+            <line>
+              <![CDATA[Done Clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[Test to perform recharge with QTAccount completed !!!]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- QTAccountAirtimeRecharge -->
+        <test-method signature="QTAccountAirtimeRechargeWithInvalidTransactionPin()[pri:3, instance:com.rebirthQuickteller.TestCases.Recharge@44b3606b]" started-at="2023-09-20T13:24:56Z" name="QTAccountAirtimeRechargeWithInvalidTransactionPin" description="This test case will perform recharge with QTAccount using Invalid Transacton Pin " finished-at="2023-09-20T13:25:17Z" duration-ms="20951" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test to perform recharge with QTAccount using Invalid Transacton Pin started !!!]]>
+            </line>
+            <line>
+              <![CDATA[emailAddress entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[Password entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[SignIn button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[Airtime button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[New Airtime button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[PhoneNumber Entered]]>
+            </line>
+            <line>
+              <![CDATA[Glo Clicked Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Next button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[Amount Entered]]>
+            </line>
+            <line>
+              <![CDATA[Pay button clicked]]>
+            </line>
+            <line>
+              <![CDATA[QuicktellerAccount Selected for Airtime Recharge]]>
+            </line>
+            <line>
+              <![CDATA[Transfer Button Clicked Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Invalid Transaction Pin Asserted successfully]]>
+            </line>
+            <line>
+              <![CDATA[Test to perform recharge with QTAccount using Invalid Transacton Pin completed !!!]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- QTAccountAirtimeRechargeWithInvalidTransactionPin -->
+        <test-method signature="CardAirtimeRecharge()[pri:4, instance:com.rebirthQuickteller.TestCases.Recharge@44b3606b]" started-at="2023-09-20T13:25:17Z" name="CardAirtimeRecharge" description="This test case will perform recharge with Card " finished-at="2023-09-20T13:25:49Z" duration-ms="31735" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test to perform recharge with card started !!!]]>
+            </line>
+            <line>
+              <![CDATA[emailAddress entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[Password entered successfully]]>
+            </line>
+            <line>
+              <![CDATA[SignIn button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[Airtime button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[New Airtime button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[PhoneNumber Entered]]>
+            </line>
+            <line>
+              <![CDATA[Glo Clicked Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Next button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[Amount Entered]]>
+            </line>
+            <line>
+              <![CDATA[Pay button clicked]]>
+            </line>
+            <line>
+              <![CDATA[New card selected]]>
+            </line>
+            <line>
+              <![CDATA[Card number input]]>
+            </line>
+            <line>
+              <![CDATA[CardExpiryDate input]]>
+            </line>
+            <line>
+              <![CDATA[CardCVV input]]>
+            </line>
+            <line>
+              <![CDATA[CardPin input]]>
+            </line>
+            <line>
+              <![CDATA[Next button clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[Recharge Successful]]>
+            </line>
+            <line>
+              <![CDATA[Receipt clicked]]>
+            </line>
+            <line>
+              <![CDATA[Receipt closed successfully]]>
+            </line>
+            <line>
+              <![CDATA[Done Clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[Test to perform recharge with card completed !!!]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CardAirtimeRecharge -->
+        <test-method is-config="true" signature="terminateSession()[pri:0, instance:com.rebirthQuickteller.TestCases.Recharge@44b3606b]" started-at="2023-09-20T13:25:49Z" name="terminateSession" finished-at="2023-09-20T13:25:49Z" duration-ms="103" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminateSession -->
+      </class> <!-- com.rebirthQuickteller.TestCases.Recharge -->
+    </test> <!-- Recharge -->
+  </suite> <!-- rebirthQuicktellerSuite -->
+</testng-results>

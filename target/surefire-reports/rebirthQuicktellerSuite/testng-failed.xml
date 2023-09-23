@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [rebirthQuicktellerSuite]" guice-stage="DEVELOPMENT" verbose="0">
+  <listeners>
+    <listener class-name="com.rebirthQuickteller.ExtentReport.ExtentReportListener"/>
+  </listeners>
+  <test thread-count="5" name="SendMoney(failed)" verbose="0">
+    <classes>
+      <class name="com.rebirthQuickteller.TestCases.SendMoney">
+        <methods>
+          <include name="setUp"/>
+          <include name="FundAccountWithValidDetails"/>
+          <include name="terminateSession"/>
+          <include name="CardTransferWithValidDetails"/>
+        </methods>
+      </class> <!-- com.rebirthQuickteller.TestCases.SendMoney -->
+    </classes>
+  </test> <!-- SendMoney(failed) -->
+</suite> <!-- Failed suite [rebirthQuicktellerSuite] -->

@@ -1,0 +1,315 @@
+<html>
+<head>
+<title>TestNG:  Validate Login</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Validate Login</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>14/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Wed Sep 20 14:18:43 WAT 2023</td>
+</tr>
+<tr><td>Total time:</td><td>72 seconds (72539 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.rebirthQuickteller.TestCases.ValidateLogin.EmailLoginWithEmptyEmailAddressField()'><b>EmailLoginWithEmptyEmailAddressField</b><br>Test class: com.rebirthQuickteller.TestCases.ValidateLogin<br>Test method: This test case will verify user can't login with empty email fields and valid password<br/>
+<a href="#Output-105451526" onClick='toggleBox("Output-105451526", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-105451526" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-105451526">
+Test to verify user can't login with empty email fields and valid password started !!!<br/>
+emailAddress entered successfully<br/>
+Password entered successfully<br/>
+Test to verify user can't login with empty email fields and valid password completed !!!<br/>
+</div>
+</td>
+<td></td>
+<td>0</td>
+<td>com.rebirthQuickteller.TestCases.ValidateLogin@5fe1ce85</td></tr>
+<tr>
+<td title='com.rebirthQuickteller.TestCases.ValidateLogin.EmailLoginWithEmptyPasswordField()'><b>EmailLoginWithEmptyPasswordField</b><br>Test class: com.rebirthQuickteller.TestCases.ValidateLogin<br>Test method: This test case will verify user can't login with empty pasword fields and valid email address<br/>
+<a href="#Output-931280002" onClick='toggleBox("Output-931280002", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-931280002" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-931280002">
+Test to verify user can't login with empty pasword fields and valid email address started !!!<br/>
+emailAddress entered successfully<br/>
+Password entered successfully<br/>
+Test to verify user can't login with empty pasword fields and valid email address completed !!!<br/>
+</div>
+</td>
+<td></td>
+<td>0</td>
+<td>com.rebirthQuickteller.TestCases.ValidateLogin@5fe1ce85</td></tr>
+<tr>
+<td title='com.rebirthQuickteller.TestCases.ValidateLogin.EmailLoginwithInvalidPassword()'><b>EmailLoginwithInvalidPassword</b><br>Test class: com.rebirthQuickteller.TestCases.ValidateLogin<br>Test method: This test case will verify user can't login with valid email and a wrong password fields<br/>
+<a href="#Output-26462224" onClick='toggleBox("Output-26462224", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-26462224" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-26462224">
+Test to verify user can't login with  valid email and a wrong password fields started !!!<br/>
+emailAddress entered successfully<br/>
+Password entered successfully<br/>
+SignIn button clicked successfully<br/>
+Assertion of Invalid Password successful<br/>
+Test to verify user can't login with  valid email and a wrong password fields completed !!!<br/>
+</div>
+</td>
+<td></td>
+<td>4</td>
+<td>com.rebirthQuickteller.TestCases.ValidateLogin@5fe1ce85</td></tr>
+<tr>
+<td title='com.rebirthQuickteller.TestCases.ValidateLogin.EmailLoginwithValidcredentials()'><b>EmailLoginwithValidcredentials</b><br>Test class: com.rebirthQuickteller.TestCases.ValidateLogin<br>Test method: This TestCase will perform email login with valid credentials<br/>
+<a href="#Output-1875112359" onClick='toggleBox("Output-1875112359", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1875112359" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1875112359">
+Test to perform login with valid email and password started !!!<br/>
+emailAddress entered successfully<br/>
+Password entered successfully<br/>
+SignIn button clicked successfully<br/>
+Logout successfully<br/>
+Test to perform login with valid email and password completed !!!<br/>
+</div>
+</td>
+<td></td>
+<td>6</td>
+<td>com.rebirthQuickteller.TestCases.ValidateLogin@5fe1ce85</td></tr>
+<tr>
+<td title='com.rebirthQuickteller.TestCases.ValidateLogin.LoginWithEmptyPhonenumberField()'><b>LoginWithEmptyPhonenumberField</b><br>Test class: com.rebirthQuickteller.TestCases.ValidateLogin<br>Test method: This test case will verify user can't login with empty phoneNumber fields and valid password<br/>
+<a href="#Output-1027347651" onClick='toggleBox("Output-1027347651", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1027347651" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1027347651">
+Test to verify user can't login with empty phoneNumber fields and valid password started !!!<br/>
+phoneNumber entered successfully<br/>
+Password entered successfully<br/>
+Test to verify user can't login with empty phoneNumber fields and valid password completed !!!<br/>
+</div>
+</td>
+<td></td>
+<td>0</td>
+<td>com.rebirthQuickteller.TestCases.ValidateLogin@5fe1ce85</td></tr>
+<tr>
+<td title='com.rebirthQuickteller.TestCases.ValidateLogin.LoginWithInvalidEmailInput()'><b>LoginWithInvalidEmailInput</b><br>Test class: com.rebirthQuickteller.TestCases.ValidateLogin<br>Test method: This test case will verify user can't login with invalid email and a valid password fields<br/>
+<a href="#Output-774676004" onClick='toggleBox("Output-774676004", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-774676004" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-774676004">
+Test to verify user can't login with invalid email and a valid password fields started !!!<br/>
+emailAddress entered successfully<br/>
+Assertion of InvalidEmailInput successful<br/>
+Password entered successfully<br/>
+Test to verify user can't login with invalid email and a valid password fields completed !!!<br/>
+</div>
+</td>
+<td></td>
+<td>0</td>
+<td>com.rebirthQuickteller.TestCases.ValidateLogin@5fe1ce85</td></tr>
+<tr>
+<td title='com.rebirthQuickteller.TestCases.ValidateLogin.LoginWithInvalidPhoneNumberInput()'><b>LoginWithInvalidPhoneNumberInput</b><br>Test class: com.rebirthQuickteller.TestCases.ValidateLogin<br>Test method: This test case will verify user can't login with invalid phoneNumber fields<br/>
+<a href="#Output-1419765033" onClick='toggleBox("Output-1419765033", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1419765033" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1419765033">
+Test to verify user can't login with invalid phoneNumber fields started !!!<br/>
+Sign In with PhoneNumber button clicked successfully	<br/>
+phoneNumber entered successfully<br/>
+Assertion of InvalidphoneNumberInput successful<br/>
+Test to verify user can't login with invalid phoneNumber fields fields completed !!!<br/>
+</div>
+</td>
+<td></td>
+<td>1</td>
+<td>com.rebirthQuickteller.TestCases.ValidateLogin@5fe1ce85</td></tr>
+<tr>
+<td title='com.rebirthQuickteller.TestCases.ValidateLogin.LoginWithUnRegisteredPhonenumber()'><b>LoginWithUnRegisteredPhonenumber</b><br>Test class: com.rebirthQuickteller.TestCases.ValidateLogin<br>Test method: This test case will verify user can't login with  UnregisteredPhoneNumber and a valid password fields<br/>
+<a href="#Output-1644361919" onClick='toggleBox("Output-1644361919", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1644361919" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1644361919">
+Test to verify user can't login with  UnregisteredPhoneNumber and a valid password fields started !!!<br/>
+phoneNumber entered successfully<br/>
+Password entered successfully<br/>
+SignIn button clicked successfully<br/>
+Assertion of UnregisteredPhoneNumber successful<br/>
+Test to verify user can't login with  UnregisteredPhoneNumber and a valid password fields completed !!!<br/>
+</div>
+</td>
+<td></td>
+<td>5</td>
+<td>com.rebirthQuickteller.TestCases.ValidateLogin@5fe1ce85</td></tr>
+<tr>
+<td title='com.rebirthQuickteller.TestCases.ValidateLogin.LoginWithUnregisteredEmail()'><b>LoginWithUnregisteredEmail</b><br>Test class: com.rebirthQuickteller.TestCases.ValidateLogin<br>Test method: This test case will verify user can't login with UnregisteredEmail and a valid password fields<br/>
+<a href="#Output-1562292756" onClick='toggleBox("Output-1562292756", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1562292756" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1562292756">
+Test to verify user can't login with  UnregisteredEmail and a valid password fields started !!!<br/>
+emailAddress entered successfully<br/>
+Password entered successfully<br/>
+SignIn button clicked successfully<br/>
+Assertion of UnregisteredEmail successful<br/>
+Test to verify user can't login with  UnregisteredEmail and a valid password fields completed !!!<br/>
+</div>
+</td>
+<td></td>
+<td>1</td>
+<td>com.rebirthQuickteller.TestCases.ValidateLogin@5fe1ce85</td></tr>
+<tr>
+<td title='com.rebirthQuickteller.TestCases.ValidateLogin.PhoneNumberLoginWithInvalidPassword()'><b>PhoneNumberLoginWithInvalidPassword</b><br>Test class: com.rebirthQuickteller.TestCases.ValidateLogin<br>Test method: This test case will verify user can't login with valid phoneNumber and a wrong password fields<br/>
+<a href="#Output-116449140" onClick='toggleBox("Output-116449140", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-116449140" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-116449140">
+Test to verify user can't login with valid phoneNumber and a wrong password fields started !!!<br/>
+phoneNumber entered successfully<br/>
+Password entered successfully<br/>
+SignIn button clicked successfully<br/>
+Assertion of Invalid Password successful<br/>
+Test to verify user can't login with valid phoneNumber and a wrong password fields completed !!!<br/>
+</div>
+</td>
+<td></td>
+<td>9</td>
+<td>com.rebirthQuickteller.TestCases.ValidateLogin@5fe1ce85</td></tr>
+<tr>
+<td title='com.rebirthQuickteller.TestCases.ValidateLogin.PhoneNumberLoginWithValidCredentials()'><b>PhoneNumberLoginWithValidCredentials</b><br>Test class: com.rebirthQuickteller.TestCases.ValidateLogin<br>Test method: This TestCase will perform phoneNumber login with valid credentials<br/>
+<a href="#Output-1783130875" onClick='toggleBox("Output-1783130875", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1783130875" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1783130875">
+Test to perform phoneNumber login with valid credentials started !!!<br/>
+phoneNumber entered successfully<br/>
+Password entered successfully<br/>
+SignIn button clicked successfully<br/>
+Logout successfully<br/>
+Test to perform phoneNumber login with valid credentials completed !!!<br/>
+</div>
+</td>
+<td></td>
+<td>7</td>
+<td>com.rebirthQuickteller.TestCases.ValidateLogin@5fe1ce85</td></tr>
+<tr>
+<td title='com.rebirthQuickteller.TestCases.ValidateLogin.ValidateEmailLoginWithRememberMe()'><b>ValidateEmailLoginWithRememberMe</b><br>Test class: com.rebirthQuickteller.TestCases.ValidateLogin<br>Test method: This TestCase will perform valid login with rememberMe<br/>
+<a href="#Output-72537853" onClick='toggleBox("Output-72537853", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-72537853" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-72537853">
+Test to perform valid login with rememberMe started !!!<br/>
+emailAddress entered successfully<br/>
+Password entered successfully<br/>
+SignIn button clicked successfully<br/>
+Logout successfully<br/>
+Password entered successfully<br/>
+SignIn button clicked successfully<br/>
+Logout successfully<br/>
+Test to perform valid email login with rememberMe completed !!!<br/>
+</div>
+</td>
+<td></td>
+<td>10</td>
+<td>com.rebirthQuickteller.TestCases.ValidateLogin@5fe1ce85</td></tr>
+<tr>
+<td title='com.rebirthQuickteller.TestCases.ValidateLogin.ValidatePhonenumberLoginWithRememberMe()'><b>ValidatePhonenumberLoginWithRememberMe</b><br>Test class: com.rebirthQuickteller.TestCases.ValidateLogin<br>Test method: This TestCase will perform valid phoneNumber login with rememberMe<br/>
+<a href="#Output-1447992331" onClick='toggleBox("Output-1447992331", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1447992331" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1447992331">
+Test to perform valid phoneNumber login with rememberMe started !!!<br/>
+Sign In with PhoneNumber button clicked successfully	<br/>
+phoneNumber entered successfully<br/>
+Password entered successfully<br/>
+SignIn button clicked successfully<br/>
+Logout successfully<br/>
+Sign In with PhoneNumber button clicked successfully	<br/>
+Password entered successfully<br/>
+SignIn button clicked successfully<br/>
+Logout successfully<br/>
+Test to perform valid PhoneNumberlogin with rememberMe completed !!!<br/>
+</div>
+</td>
+<td></td>
+<td>15</td>
+<td>com.rebirthQuickteller.TestCases.ValidateLogin@5fe1ce85</td></tr>
+<tr>
+<td title='com.rebirthQuickteller.TestCases.ValidateLogin.phoneNumberLoginWithEmptyPasswordField()'><b>phoneNumberLoginWithEmptyPasswordField</b><br>Test class: com.rebirthQuickteller.TestCases.ValidateLogin<br>Test method: This test case will verify user can't login with empty pasword fields and valid phoneNumber<br/>
+<a href="#Output-1797491066" onClick='toggleBox("Output-1797491066", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1797491066" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1797491066">
+Test to verify user can't login with empty pasword fields and valid phoneNumber started !!!<br/>
+phoneNumber entered successfully<br/>
+Password entered successfully<br/>
+Test to verify user can't login with empty pasword fields and valid phoneNumber completed !!!<br/>
+</div>
+</td>
+<td></td>
+<td>0</td>
+<td>com.rebirthQuickteller.TestCases.ValidateLogin@5fe1ce85</td></tr>
+</table><p>
+</body>
+</html>

@@ -1,0 +1,9 @@
+pages\SignUpPageObjects.class
+com\rebirthQuickteller\TestCases\ValidateLoginWithGoogle.class
+com\rebirthQuickteller\TestCases\SendMoney.class
+pages\LoginPageObjects.class
+com\rebirthQuickteller\TestCases\ValidateLogin.class
+pages\SendMoneyPageObjects.class
+com\rebirthQuickteller\TestCases\SignUp.class
+com\rebirthQuickteller\TestCases\Recharge.class
+pages\RechargePageObjects.class
